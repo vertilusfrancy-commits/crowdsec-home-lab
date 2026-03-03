@@ -228,5 +228,5 @@ This lab was conducted in a **fully isolated, private virtual network** on perso
 
 **Vertilus Francy**  
 Junior Cybersecurity Professional | SOC Analyst Candidate  
-📧 vertilusfrancy@hotmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/francy-vertilus-30b891151/)
+📧 vertilusfrancy@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/francy-vertilus)
